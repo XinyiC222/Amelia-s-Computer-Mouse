@@ -10,4 +10,4 @@ A mouse shell using the bambulab mouse kit
 <h3>BOM</h3>
 -3d printed shell
 
--Bambulab mouse kit 13$
+-Bambulab mouse kit
