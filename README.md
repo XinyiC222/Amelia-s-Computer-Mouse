@@ -10,8 +10,9 @@ A mouse shell using the bambulab mouse kit
 <h3>BOM</h3>
 -3d printed shell ~$5(for shipping)
 
+
 -Bambulab mouse kit $13
 
-  -shipping fees: $6.99
+  -shipping fees & taxes: $6.99
 
 TOTAL: $24.99
