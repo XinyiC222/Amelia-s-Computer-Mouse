@@ -7,7 +7,8 @@ A mouse shell using the bambulab mouse kit
 <img width="668" height="499" alt="Screenshot 2026-01-07 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2b991d58-d634-4747-ba88-64607d14cb2c" />
 <img width="570" height="456" alt="Screenshot 2026-01-07 at 12 08 50 PM" src="https://github.com/user-attachments/assets/289674b7-63f1-49ba-a8dc-acf86788d071" />
 
-<img width="3024" height="4032" alt="IMG_2677" src="https://github.com/user-attachments/assets/7fbafac1-460b-4087-81c6-83c167546982" />
+<img width="3024" height="4032" alt="IMG_2371" src="https://github.com/user-attachments/assets/d85c206e-6adf-42b0-991b-791836ad2df5" />
+
 
 
 <h3>BOM</h3>
